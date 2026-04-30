@@ -1,0 +1,1 @@
+this plugin lets you play an impulse (delta function) on MIDI note on messages. you can also drag n drop a 10sec audio clip with just an impulse at the start and then silence from this plugin into your project
